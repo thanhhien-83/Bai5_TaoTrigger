@@ -99,7 +99,7 @@ Tự động kiểm tra dữ liệu hợp lệ (ví dụ: ngày bắt đầu kh�
 
 Tự động tính toán tổng tiền hóa đơn và lương nhân viên, giảm thao tác thủ công và tránh sai sót.  
 
-Đảm bảo dữ liệu luôn chính xác và đồng nhất, kể cả khi chưa có giao diện phần mềm hoàn chỉnh.  
+Đảm bảo dữ liệu luôn chính xác và đồng nhất, kể cả khi chưa có giao diện phần mềm hoàn chỉnh.   
 
 Tóm lại, Trigger giúp hệ thống vận hành hiệu quả, an toàn và chuyên nghiệp hơn.  
 
