@@ -78,7 +78,20 @@ Hình 5: Nhập số ngày bắt đầu lớn hơn ngày đăng ký => đúng.
 Hình 6: Tạo Trigger tính tổng tiền lương trong bảng HoaDonLuong.  
  ![image](https://github.com/user-attachments/assets/04bb3170-9ded-4846-a000-125018c30f8f)  
 
-Hình 7: 
+Hình 7: Sau khi tạo Trigger thì bảng HoaDonLuong đã tự động tính tổng tiền lương bằng cách lấy LCB (bảng NhanVien)+PC + Thưởng.  
+![image](https://github.com/user-attachments/assets/2a93a66e-9e1e-4866-8f60-038d77d7bf79)  
+
+Hình 8: Tạo Trigger trong bảng TaiKhoan không cho tài khoản trùng nhau.  
+![image](https://github.com/user-attachments/assets/8250a47f-fda4-4ce4-ac9a-ad02ffeb2edd)  
+
+Hình 9: Nhập trùng tài khoản => thông báo lỗi, triggers đang chạy.  
+![image](https://github.com/user-attachments/assets/4c3cc5c1-28cb-476d-a578-4c66117aa3ad)  
+
+Hình 10: Tài khoản không trùng nhau => không lỗi.  
+![image](https://github.com/user-attachments/assets/5ba37ae8-b154-4bc8-8434-94d4ad17c79f)  
+
+
+
 
 
 
