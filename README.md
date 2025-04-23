@@ -59,14 +59,15 @@ Hệ thống tôi gồm các bảng: Taikhoan,Hoivien, Nhanvien, PT, THehoivien,
 ![image](https://github.com/user-attachments/assets/baad5c92-1b25-40c2-be60-c786c3f76fab)  
 
 # Demo Triggers  
-Hình 1: Tạo Triggers cho bảng HoiVien, các số điện thoại và gmail không được trùng nhau.  
+Hình 1: Tạo Triggers cho bảng HoiVien, SDT và Gmail không được trùng nhau.  
+Trigger này giúp hệ thống không cho phép 2 hội viên dùng chung Gmail hoặc SĐT, từ đó đảm bảo danh tính và dữ liệu luôn rõ ràng, duy nhất.  
  ![h1](https://github.com/user-attachments/assets/9b7f3243-aebc-4d77-824d-147d7f629cc7)   
 
 Hình 2: Đây là hình ảnh nhập sdt và gmail trùng nhau => thông báo lỗi, tức là Trigger đang chạy.  
 ![Screenshot 2025-04-23 100431](https://github.com/user-attachments/assets/905116a5-375c-45f6-9b68-91a5b24b3725)  
 ![Screenshot 2025-04-23 100514](https://github.com/user-attachments/assets/849896bf-d5ae-4da9-8081-2dcddf774597)  
 
-Hình 3: Tạo Triggers cho bảng DangKy, ngày bắt đầu phải lớn hơn hoặc bằng ngày đăng ký.  
+Hình 3: Tạo trigger để kiểm tra rằng NgayBatDau phải lớn hơn hoặc bằng NgayDK (tức là không được đăng ký sau khi đã bắt đầu gói tập).  
 ![image](https://github.com/user-attachments/assets/cd02de44-ab4c-4067-b160-df43421d0c4d)  
 
 Hình 4: Hình ảnh minh hoạ số ngày bắt đầu nhỏ hơn số ngày kết thúc => thông báo lỗi. Trigger đang run.  
