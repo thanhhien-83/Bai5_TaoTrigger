@@ -101,7 +101,9 @@ Tự động tính toán tổng tiền hóa đơn và lương nhân viên, giả
 
 Đảm bảo dữ liệu luôn chính xác và đồng nhất, kể cả khi chưa có giao diện phần mềm hoàn chỉnh.   
 
-Tóm lại, Trigger giúp hệ thống vận hành hiệu quả, an toàn và chuyên nghiệp hơn.  
+Bảo vệ dữ liệu ngay tại cơ sở dữ liệu, giúp hệ thống ổn định và chuyên nghiệp hơn.
+
+
 
 
 
