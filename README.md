@@ -59,7 +59,7 @@ Hệ thống tôi gồm các bảng: Taikhoan,Hoivien, Nhanvien, PT, THehoivien,
 ![image](https://github.com/user-attachments/assets/baad5c92-1b25-40c2-be60-c786c3f76fab)  
 
 # Demo Triggers  
-Hình 1: Tạo Triggers cho bảng HoiVien, các số điện thoạivà gmail không được trùng nhau.  
+Hình 1: Tạo Triggers cho bảng HoiVien, các số điện thoại và gmail không được trùng nhau.  
  ![h1](https://github.com/user-attachments/assets/9b7f3243-aebc-4d77-824d-147d7f629cc7)   
 
 Hình 2: Đây là hình ảnh nhập sdt và gmail trùng nhau => thông báo lỗi, tức là Trigger đang chạy.  
@@ -91,8 +91,16 @@ Hình 10: Tài khoản không trùng nhau => không lỗi.
 ![image](https://github.com/user-attachments/assets/5ba37ae8-b154-4bc8-8434-94d4ad17c79f)  
 
 
+5. Kết luận về Trigger đã giúp gì cho đồ án của em.  
+Trigger đóng vai trò quan trọng trong việc đảm bảo tính toàn vẹn và tự động hóa xử lý dữ liệu trong hệ thống quản lý phòng Gym. Nhờ Trigger, hệ thống có thể:  
 
+Tự động kiểm tra dữ liệu hợp lệ (ví dụ: ngày bắt đầu không trước ngày đăng ký, không trùng tài khoản).  
 
+Tự động tính toán tổng tiền hóa đơn và lương nhân viên, giảm thao tác thủ công và tránh sai sót.  
+
+Đảm bảo dữ liệu luôn chính xác và đồng nhất, kể cả khi chưa có giao diện phần mềm hoàn chỉnh.  
+
+Tóm lại, Trigger giúp hệ thống vận hành hiệu quả, an toàn và chuyên nghiệp hơn.  
 
 
 
